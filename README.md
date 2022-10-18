@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Wallytj, Im studying BIT majoring cyber security.
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning whaterver comes in the course of study focusing on coding (java) and security.
+- 💞️ tbh I’m not looking to collaborations rn, I am just learning. If you think we can learn together Hmu, I belive in unity🥂 
+- 📫 How to reach me :tezeeyks@gmail.com
+- Im a dreamer of success. I do make roadmaps to success but you know my lazyass comes in the middle. I am preety sure I'll get there soon.😂😂
 
-<!---
-Wallytj/Wallytj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
